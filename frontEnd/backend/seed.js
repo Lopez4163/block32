@@ -1,4 +1,4 @@
-const client = require("./client.js")
+const client = require("./client.cjs")
 const { getActivities, createActivities } = require("./activities.jsx")
 const { getRoutines, createRoutines } = require("./routines.jsx")
 const {
